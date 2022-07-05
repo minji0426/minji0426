@@ -1,3 +1,4 @@
 ## Kim Minji
 
-- Sungshin Women's University - Computer Engineering
+### 💻
+- Sungshin Women's University - Computer Engineering (Bachelor's degree)
