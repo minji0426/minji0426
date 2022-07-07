@@ -3,3 +3,5 @@
 ### 💻
 - Sungshin Women's University - Computer Engineering (Bachelor's degree)
 
+![minji0426's github stats](https://github-readme-stats.vercel.app/api?username=minji0426&show_icons=true)
+
